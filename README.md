@@ -42,7 +42,8 @@ brew install tesseract
 python3 V2Wordscapes solver_noWifi.py
 ```
 3. The tool will capture your screen, read the letters, and output all valid words.
-Please allow the script to capture your screen and control your mouse cursor. Press 'q' to exit the script.
+4. Please allow the script to capture your screen and control your mouse cursor.
+5. Press 'q' to exit the script.
 
 ## License
 
