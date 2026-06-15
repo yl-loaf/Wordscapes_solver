@@ -56,7 +56,8 @@ Back button position [fig. 1]:
 <img width="146" height="316" alt="IMG_2758" src="https://github.com/user-attachments/assets/e13c8156-6be5-43b2-aee6-4267f702735f" />
 
 Enter level button [fig 2]    
-<img width="146" height="232" alt="IMG_2759" src="https://github.com/user-attachments/assets/428c9eb1-d3b2-428b-9c58-90213f305b8f" />
+<img width="146" height="232" alt="IMG_2759" src="https://github.com/user-attachments/assets/428c9eb1-d3b2-428b-9c58-90213f305b8f" />  
+
 Piggy bank close button [fig 3]  
 <img width="131" height="258" alt="Screenshot 2026-06-15 at 10 32 59 AM" src="https://github.com/user-attachments/assets/f21b8949-0261-4235-8a85-b99b3bea5f41" />
 
